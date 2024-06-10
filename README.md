@@ -1,4 +1,4 @@
-# The Cars
+# The Cars 🚗
 
 This project aims to provide a platform where car enthusiasts can come together and exchange information about car brands. 
 
